@@ -24,7 +24,7 @@ const Search: React.FC<ISearch> = () => {
           Google Search
         </button>
         <button type="submit" className="btn-primary">
-          I'm feeling lucky
+          I &apos; m feeling lucky
         </button>
       </div>
     </form>
